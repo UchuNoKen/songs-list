@@ -1,4 +1,4 @@
-// Action create to select song
+// Action creator to select song
 export const selectSong = song => {
   // return an action
   return {
