@@ -24,7 +24,7 @@ class SongList extends Component {
 }
 
 const mapStateToProps = state => {
-  // console.log(state); updating state when buttons clicked
+  // console.log(state); show updating state when buttons clicked
   return { songs: state.songs };
 };
 
